@@ -1,6 +1,6 @@
 {
   "name": "myprick",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The best package in the world",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myname/mypackage.git"
+    "url": "git+https://github.com/Margharita/myPrick.git"
   },
   "keywords": [
     "my",
@@ -17,9 +17,9 @@
   "author": "margarita",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/myname/mypackage/issues"
+    "url": "https://github.com/Margharita/myPrick/issues"
   },
-  "homepage": "https://github.com/myname/mypackage#readme",
+  "homepage": "https://github.com/Margharita/myPrick#readme",
   "dependencies": {
     "my": "^0.3.3",
     "prick": "0.0.1-security"
